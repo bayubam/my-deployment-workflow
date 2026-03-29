@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://<your-username>.github.io',
-  base: '/gh-deployment-workflow',
+  site: 'https://bayubam.github.io',
+  base: '/my-deployment-workflow',
 });
